@@ -1,2 +1,2 @@
 # elliotsmoon.net
-Main Site for elliotsmoon
+This is the frontend for my personal site.
